@@ -4,10 +4,40 @@
 // HR needs some information on the new interns put into a database.  Given an id, email, first name, and gender. Create an object for each person in the company list:
 
 // 1,mmelloy0@psu.edu,Mitzi,F
+const Mitzi = {
+  ID: 1,
+  Email: mmelloy0@PushSubscription.edu,
+  Fname: Mitzi,
+  Gender: Female,
+}
 // 2,kdiben1@tinypic.com,Kennan,M
+const Kennan = {
+  ID: 2,
+  Email: kdiben1@tinypic.com,
+  Fname: Kennan,
+  Gender: Male,
+}
 // 3,kmummery2@wikimedia.org,Keven,M
+const Keven = {
+  ID: 3,
+  Email: kmummery2@wikimedia.org,
+  Fname: Keven,
+  Gender: Male,
+}
 // 4,gmartinson3@illinois.edu,Gannie,M
+const Gannie = {
+  ID: 4,
+  Email: gmartinson3illinois.edu,
+  Fname: Gannie,
+  Gender: Male,
+}
 // 5,adaine5@samsung.com,Antonietta,F
+const adaine = {
+  ID: 5,
+  Email: adaine5@samsung.com,
+  Fname: adaine,
+  Gender: Female,
+}
 
 // Example format of an intern object: 1,examples@you.edu,Example,F
 const example = {
